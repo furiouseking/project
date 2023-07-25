@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+<meta name="google-site-verification" content="KuiqDQHpQUA3p2_JNIoLHOrGxqwXuTossjPnRwEtizo" />
   
 	<meta charset="UTF-8">
 				<style type="text/css">
